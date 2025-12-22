@@ -1,0 +1,22 @@
+{
+  "frankfurter_api": {
+    "conn_type": "http",
+    "description": null,
+    "login": null,
+    "password": null,
+    "host": "https://api.frankfurter.dev/v1/",
+    "port": null,
+    "schema": null,
+    "extra": null
+  },
+  "postgres_db": {
+    "conn_type": "postgres",
+    "description": null,
+    "login": "postgres",
+    "password": "postgres",
+    "host": "postgres-data",
+    "port": 5432,
+    "schema": "postgres",
+    "extra": null
+  }
+}
